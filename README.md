@@ -1,2 +1,2 @@
-# react-graph-vis-example
+# vis-networl-grapd
 Created with CodeSandbox
